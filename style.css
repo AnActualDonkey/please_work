@@ -1,0 +1,55 @@
+/* all p-tags*/
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* paragraph 1*/
+.thought1 {
+    font-weight:bold;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+/* paragraph 2*/
+.thought2 {
+    font-size: 16px;
+    color: rgb(104, 98, 96);
+    font-weight: lighter;
+    text-align: right;
+}
+
+/* paragraph 3*/
+.thought3 {
+    font-size: 16px;
+    color: magenta;
+    text-align: center;
+}
+
+/* paragraph 4*/
+.thought4 {
+    font-family: fantasy;
+    text-align: right;
+    color: greenyellow;
+    text-align: right
+}
+
+/* Add in the Google fonts of your choice */
+h1 {
+    font-family: 'Srisakdi', cursive;
+    color:yellow;
+    font-size: 16px;
+
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    font-size: 18px;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    color: blue;
+    font-size: 20px;
+}

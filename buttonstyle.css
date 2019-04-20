@@ -1,0 +1,27 @@
+a {
+    font-size: 64px;
+}
+
+/*Hover Pseudo Class
+    Changes the style only when mouse hovers over the preceding element.
+*/
+
+a:hover {
+    background-color: rebeccapurple;
+}
+
+/* Focus Pseudo Class
+    Changes the style onlt whe browser gives the element focus, in this case after the lik is clicked.
+*/
+
+a:focus{
+    background-color: olivedrab;
+}
+
+/* Active Pseudo Class
+    Changes the style only while the user clicks down on an element.
+*/
+
+a:active{ 
+    background-color: orangered
+}
